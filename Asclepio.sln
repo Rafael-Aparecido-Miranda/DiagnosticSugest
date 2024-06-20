@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asclepio.APi", "Asclepio.API\Asclepio.APi.csproj", "{F47BFCE1-C24E-4179-8876-688F8A0FDD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asclepio.Data", "Asclepio.Data\Asclepio.Data.csproj", "{238DB5DE-A6C6-4ECD-892A-B7310A3CBC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asclepio.Tests", "Asclepio.Tests\Asclepio.Tests.csproj", "{3329FE5D-47A9-491D-BD6D-954160CADB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asclepio.Web", "Asclepio.Web\Asclepio.Web.csproj", "{7365F3FD-E482-44C9-8727-1E2CDA883C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47BFCE1-C24E-4179-8876-688F8A0FDD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47BFCE1-C24E-4179-8876-688F8A0FDD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47BFCE1-C24E-4179-8876-688F8A0FDD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47BFCE1-C24E-4179-8876-688F8A0FDD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238DB5DE-A6C6-4ECD-892A-B7310A3CBC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238DB5DE-A6C6-4ECD-892A-B7310A3CBC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238DB5DE-A6C6-4ECD-892A-B7310A3CBC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238DB5DE-A6C6-4ECD-892A-B7310A3CBC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3329FE5D-47A9-491D-BD6D-954160CADB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3329FE5D-47A9-491D-BD6D-954160CADB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3329FE5D-47A9-491D-BD6D-954160CADB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3329FE5D-47A9-491D-BD6D-954160CADB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7365F3FD-E482-44C9-8727-1E2CDA883C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7365F3FD-E482-44C9-8727-1E2CDA883C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7365F3FD-E482-44C9-8727-1E2CDA883C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7365F3FD-E482-44C9-8727-1E2CDA883C65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

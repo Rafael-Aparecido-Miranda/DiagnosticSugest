@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": ["javascript", "javascriptreact"],
+    "git.enableSmartCommit": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
