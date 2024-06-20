@@ -1,0 +1,36 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Asclepio.sln
+# Ignore Visual Studio temporary files, build results, and
+# folder configurations
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+*.csproj.vspscc
+*.dbmdl
+*.pdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.orig
+.vs/
+.vscode/
+.idea/
+
+# Ignore build output folders
+[Bb]in/
+[Oo]bj/
+
+# Ignore packages and dependencies
+packages/
+node_modules/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore other specific files/folders as needed
